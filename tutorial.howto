@@ -3,12 +3,15 @@ tutorial for building a website using main.tsx and the needed files:
 1. Create a new project folder.
 
 2. Add the following files:
+Create a folder named src in your project folder.
 
-- index.html
-- main.tsx
-- App.tsx
-- tsconfig.json
-- package.json
+Place these files as follows:
+
+- index.html (in the root of your project folder)
+- tsconfig.json (in the root of your project folder)
+- package.json (in the root of your project folder)
+- src/main.tsx (inside the src folder)
+- src/App.tsx (inside the src folder)
 
 3. Example contents:
 
